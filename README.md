@@ -391,7 +391,7 @@ mentra/
 
 ## 📝 License
 
-MIT License - Created by Maurya Ji
+MIT License - Created by Gigamergestudio ☺️ 
 
 ---
 
@@ -422,4 +422,5 @@ For issues or questions:
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-FF0080?style=for-the-badge)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-6C63FF?style=for-the-badge)
 
+MENTRA ~ Powered by Gigamergestudio ☺️ 
 </div>
